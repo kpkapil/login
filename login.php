@@ -53,15 +53,19 @@
   <div class="container" style="background-color:#f1f1f1">
   </div>
   <div class="footer">
+    <center>
     <a href="https://twitter.com/">
-<img src="twitter.png" onmouseover="twitter2.png" onmouseout="twitter.png" style="width:114px;height:114px;">
+    <img src="twitter.png" style="width:57px;height:57px;">
     </a>
+    &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://facebook.com/">
-<img src="facebook.png" onmouseover="facebook2.png" onmouseout="facebook.png" style="width:114px;height:114px;">
+    <img src="facebook.png" style="width:57px;height:57px;">
     </a>
+    &nbsp; &nbsp; &nbsp; &nbsp;
     <a href="https://gmail.com/">
-<img src="gmail.png" onmouseover="gmail2.png" onmouseout="gmail.png" style="width:150px;height:114px;">
+    <img src="gmail.png" style="width:75px;height:57px;">
     </a>
+</center>
     </div>
    </form>
 </body>
